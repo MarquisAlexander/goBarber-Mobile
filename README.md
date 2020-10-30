@@ -12,8 +12,8 @@
 
 Esse projeto fou desenvolvido com as seguintes tecnologias:
 
-- [React](https://reactjs.org)
-  - [useCallback, useState, useContext](https://pt-br.reactjs.org/docs/hooks-reference.html)
+- [React-native](https://reactnative.dev/)
+  - [KeyboardAvoidingView, Platform, ScrollView, Alert](https://reactnative.dev/docs/getting-started)
 - [TypeScript](https://typescriptlang.org)
 - [Node.js](https://nodejs.org/en/)
 
@@ -31,14 +31,13 @@ Esse projeto foi desenvolvido no curso da Rocketseat, essa aplicação visa ajud
 ## 🖼 Layout
 
 
-<img src="https://user-images.githubusercontent.com/51330232/
-97711461-e1792c80-1a9b-11eb-9cb3-028d5c9780a7.jpg" width="250"/>
-<img src="https://user-images.githubusercontent.com/51330232/97711517-f2c23900-1a9b-11eb-8049-52850c9d120e.jpg" width="250"/>
+<img src="https://user-images.githubusercontent.com/51330232/97711786-4c2a6800-1a9c-11eb-9119-95d1f0522be5.jpg" width="450"/>
+<img src="https://user-images.githubusercontent.com/51330232/97711517-f2c23900-1a9b-11eb-8049-52850c9d120e.jpg" width="450"/>
 
 ## OBS
 Essa aplicação faz parte de toda uma aplicação completa(fullStack) envolvendo aplicações para o back-end e Mobile.
   - [Back-end]()
-  - [Mobile]()
+  - [Front-end](https://github.com/MarquisAlexander/goBarber-web)
 
 ### :muscle: Quem deu aquela força para não desistir?
 
