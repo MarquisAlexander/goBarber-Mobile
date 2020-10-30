@@ -36,7 +36,7 @@ Esse projeto foi desenvolvido no curso da Rocketseat, essa aplicação visa ajud
 
 ## OBS
 Essa aplicação faz parte de toda uma aplicação completa(fullStack) envolvendo aplicações para o back-end e Mobile.
-  - [Back-end]()
+  - [Back-end](https://github.com/MarquisAlexander/goBarber-back-end)
   - [Front-end](https://github.com/MarquisAlexander/goBarber-web)
 
 ### :muscle: Quem deu aquela força para não desistir?
