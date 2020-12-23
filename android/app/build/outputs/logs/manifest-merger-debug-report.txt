@@ -9,6 +9,7 @@ MERGED from [com.facebook.flipper:flipper:0.54.0] /home/marquis/.gradle/caches/t
 MERGED from [com.facebook.flipper:flipper-network-plugin:0.54.0] /home/marquis/.gradle/caches/transforms-2/files-2.1/bd2cab46fd45b530a274001375333ead/flipper-network-plugin-0.54.0/AndroidManifest.xml:8:1-15:12
 MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.54.0] /home/marquis/.gradle/caches/transforms-2/files-2.1/dd7dfafbb0af41b4347f18654ea5c436/flipper-fresco-plugin-0.54.0/AndroidManifest.xml:8:1-15:12
 MERGED from [:react-native-async-storage_async-storage] /home/marquis/gostack/goBarber-Mobile/node_modules/@react-native-async-storage/async-storage/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-community_datetimepicker] /home/marquis/gostack/goBarber-Mobile/node_modules/@react-native-community/datetimepicker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-13:12
 MERGED from [:react-native-community_masked-view] /home/marquis/gostack/goBarber-Mobile/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
 MERGED from [:react-native-gesture-handler] /home/marquis/gostack/goBarber-Mobile/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
 MERGED from [:react-native-reanimated] /home/marquis/gostack/goBarber-Mobile/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
@@ -92,6 +93,8 @@ application
 ADDED from /home/marquis/gostack/goBarber-Mobile/android/app/src/main/AndroidManifest.xml:6:5-25:19
 MERGED from /home/marquis/gostack/goBarber-Mobile/android/app/src/main/AndroidManifest.xml:6:5-25:19
 MERGED from /home/marquis/gostack/goBarber-Mobile/android/app/src/main/AndroidManifest.xml:6:5-25:19
+MERGED from [:react-native-community_datetimepicker] /home/marquis/gostack/goBarber-Mobile/node_modules/@react-native-community/datetimepicker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-20
+MERGED from [:react-native-community_datetimepicker] /home/marquis/gostack/goBarber-Mobile/node_modules/@react-native-community/datetimepicker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-20
 MERGED from [com.facebook.react:react-native:0.63.3] /home/marquis/.gradle/caches/transforms-2/files-2.1/08d9938937c475b026ac09aecc3afc95/jetified-react-native-0.63.3/AndroidManifest.xml:11:5-20
 MERGED from [com.facebook.react:react-native:0.63.3] /home/marquis/.gradle/caches/transforms-2/files-2.1/08d9938937c475b026ac09aecc3afc95/jetified-react-native-0.63.3/AndroidManifest.xml:11:5-20
 MERGED from [com.facebook.soloader:soloader:0.9.0] /home/marquis/.gradle/caches/transforms-2/files-2.1/c34148f30cbc3e974eff21cbfb6a112a/soloader-0.9.0/AndroidManifest.xml:11:5-20
@@ -166,6 +169,8 @@ MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.54.0] /home/marquis/.g
 MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.54.0] /home/marquis/.gradle/caches/transforms-2/files-2.1/dd7dfafbb0af41b4347f18654ea5c436/flipper-fresco-plugin-0.54.0/AndroidManifest.xml:11:5-13:41
 MERGED from [:react-native-async-storage_async-storage] /home/marquis/gostack/goBarber-Mobile/node_modules/@react-native-async-storage/async-storage/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
 MERGED from [:react-native-async-storage_async-storage] /home/marquis/gostack/goBarber-Mobile/node_modules/@react-native-async-storage/async-storage/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_datetimepicker] /home/marquis/gostack/goBarber-Mobile/node_modules/@react-native-community/datetimepicker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-community_datetimepicker] /home/marquis/gostack/goBarber-Mobile/node_modules/@react-native-community/datetimepicker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [:react-native-community_masked-view] /home/marquis/gostack/goBarber-Mobile/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
 MERGED from [:react-native-community_masked-view] /home/marquis/gostack/goBarber-Mobile/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
 MERGED from [:react-native-gesture-handler] /home/marquis/gostack/goBarber-Mobile/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41

@@ -1,4 +1,4 @@
-#Fri Dec 18 06:45:09 BRT 2020
+#Tue Dec 22 21:05:01 BRT 2020
 base.0=/home/marquis/gostack/goBarber-Mobile/android/app/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
 path.0=classes.dex
 renamed.0=classes.dex
