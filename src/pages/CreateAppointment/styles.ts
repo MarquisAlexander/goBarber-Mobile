@@ -75,3 +75,15 @@ export const ProviderName = styled.Text<ProviderNameProps>`
     font-size: 16px;
     color: ${(props) => (props.selected ? '#232129' : '#f4ede8')};
 `;
+
+export const Calendar = styled.View`
+
+`;
+
+export const Title = styled.Text`
+    font-family: 'RobotoSlab-Medium';
+    color: #f4ede8;
+    font-size: 24px;
+    margin: 0 24px 24px;
+    `;
+
